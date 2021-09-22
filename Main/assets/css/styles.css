@@ -126,27 +126,47 @@ nav a:hover {
     margin-left: 4rem;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+   
 }
 
 .project1 {
     display: flex;
-
+    border-left: none;
+    padding: 1rem 5rem 1rem 5rem;
+    margin-right: 10px;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1.4rem;
+    background-image: url(/My-Advanced-Portfolio/Main/assets/images/horiseonwebpage.png)
 }
 
 .project1 img {
     max-width: 75%;
     height: auto;
+    border-color:rgba(146, 204, 206, 1);
 }
 
-.project1 a {
-    text-decoration: none;
-    padding: 10px;
+/* .project1 div {
+    display: flex;
+    padding: 1rem 5rem 1rem 5rem;
     margin-right: 10px;
-    color: var(--second);
+    color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
+    background-color:rgba(146, 204, 206, 1);
+} */
+
+.project1 h2 {
+    padding: 1rem 5rem 1rem 5rem;
+    margin-right: 10px;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1.4rem;
+    background-color:rgba(146, 204, 206, 1);
+    position: reletive;
 }
 
+.project1 p{
+    position: relative;
+    position: 0rem -5rem 0rem 0rem;
+} */
 
 .contactMe {
     display: flex;
