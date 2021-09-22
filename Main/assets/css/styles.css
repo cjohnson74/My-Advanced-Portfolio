@@ -142,8 +142,6 @@ nav a:hover {
 
 .project1 div {
     display: flex;
-    padding: 1rem 5rem 1rem 5rem;
-    margin-right: 10px;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     background-color:rgba(146, 204, 206, 1);
