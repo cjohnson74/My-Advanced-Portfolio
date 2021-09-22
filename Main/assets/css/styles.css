@@ -131,11 +131,11 @@ nav a:hover {
 
 .project1 {
     display: flex;
-    
+
 }
 
 .project1 img {
-    size: 75%;
+    size: 20rem;
 }
 
 .project1 a {
