@@ -145,10 +145,9 @@ nav a:hover {
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     background-color:rgba(146, 204, 206, 1);
-    width: 100%;
+    width: 2rem;
+    height: auto;
     min-height: auto;
-    position: relative;
-    left: 0px;
 }
 
 /* .project1 h3 {
