@@ -166,11 +166,11 @@ nav a:hover {
 
 .project2 {
     display: flex;
-    padding: 1rem 5rem 1rem 5rem;
+    padding: 1rem 0rem 1rem 5rem;
     margin-right: 10px;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 100%;
+    width: 50%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
@@ -179,14 +179,14 @@ nav a:hover {
 .project2 div {
     display: flex;
     flex-direction: column;
-    line-height: 2rem;
+    line-height: 1rem;
     color:rgba(49, 52, 61, 1);
-    font-size: 1.5rem;
+    font-size: 1rem;
     background-color:rgba(146, 204, 206, 1);
     width: 10rem;
     height: auto;
     min-height: auto;
-    margin: 29rem 9rem 0rem -5rem;
+    margin: 0rem 0rem 0rem -5rem;
     padding: 1rem;
 }
 
