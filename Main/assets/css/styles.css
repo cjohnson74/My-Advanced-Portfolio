@@ -63,6 +63,7 @@ nav a:hover {
     justify-content: right;
     padding: 5rem 5rem 0rem 5rem;
     background-image: url("/My-Advanced-Portfolio/Main/assets/images/codingwallpaper.png");
+    background-position: 40%;
     background-size: cover;
     background-repeat: no-repeat;
 }
