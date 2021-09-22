@@ -200,6 +200,113 @@ nav a:hover {
     margin-top: 0rem;
 }
 
+.project3 {
+    display: flex;
+    padding: 1rem 0rem 1rem 5rem;
+    margin-right: 10px;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1.4rem;
+    width: 50%;
+    height: auto;
+    background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
+    background-repeat: no-repeat;
+}
+
+.project3 div {
+    display: flex;
+    flex-direction: column;
+    line-height: 1rem;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1rem;
+    background-color:rgba(146, 204, 206, 1);
+    width: 10rem;
+    height: auto;
+    min-height: auto;
+    margin: 0rem 0rem 0rem -5rem;
+    padding: 1rem;
+}
+
+.project3 p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.project3 h3 {
+    margin-bottom: 1rem;
+    margin-top: 0rem;
+}
+
+.project4 {
+    display: flex;
+    padding: 1rem 0rem 1rem 5rem;
+    margin-right: 10px;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1.4rem;
+    width: 50%;
+    height: auto;
+    background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
+    background-repeat: no-repeat;
+}
+
+.project4 div {
+    display: flex;
+    flex-direction: column;
+    line-height: 1rem;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1rem;
+    background-color:rgba(146, 204, 206, 1);
+    width: 10rem;
+    height: auto;
+    min-height: auto;
+    margin: 0rem 0rem 0rem -5rem;
+    padding: 1rem;
+}
+
+.project4 p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.project4 h3 {
+    margin-bottom: 1rem;
+    margin-top: 0rem;
+}
+
+.project5 {
+    display: flex;
+    padding: 1rem 0rem 1rem 5rem;
+    margin-right: 10px;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1.4rem;
+    width: 50%;
+    height: auto;
+    background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
+    background-repeat: no-repeat;
+}
+
+.project5 div {
+    display: flex;
+    flex-direction: column;
+    line-height: 1rem;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1rem;
+    background-color:rgba(146, 204, 206, 1);
+    width: 10rem;
+    height: auto;
+    min-height: auto;
+    margin: 0rem 0rem 0rem -5rem;
+    padding: 1rem;
+}
+
+.project5 p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.project5 h3 {
+    margin-bottom: 1rem;
+    margin-top: 0rem;
+}
 .contactMe {
     display: flex;
     flex-direction: row;
