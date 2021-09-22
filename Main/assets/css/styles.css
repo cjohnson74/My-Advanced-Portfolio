@@ -148,6 +148,8 @@ nav a:hover {
     width: 2rem;
     height: auto;
     min-height: auto;
+    margin: 0rem;
+    padding: 0rem;
 }
 
 /* .project1 h3 {
