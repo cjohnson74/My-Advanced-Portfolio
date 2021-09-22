@@ -117,13 +117,35 @@ nav a:hover {
 }
 
 .work div{
+    display: flex;
     color:rgba(68, 88, 119, 1);
     padding-left: 3rem;
     border-left:rgba(68, 88, 119, 1);
     border-left-width: .3rem;
     border-left-style:solid;
     margin-left: 4rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
+
+.project1 {
+    display: flex;
+    
+}
+
+.project1 img {
+    size: 75%;
+}
+
+.project1 a {
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10px;
+    color: var(--second);
+    font-size: 1.4rem;
+}
+
 
 .contactMe {
     display: flex;
