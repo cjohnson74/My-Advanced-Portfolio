@@ -136,7 +136,8 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/My-Advanced-Portfolio/Main/assets/images/horiseonwebpage.png)
+    background-image: url(/My-Advanced-Portfolio/Main/assets/images/horiseonwebpage.png);
+    background-repeat: no-repeat;
 }
 
 .project1 div {
@@ -162,19 +163,42 @@ nav a:hover {
     margin-bottom: 1rem;
     margin-top: 0rem;
 }
-/* .project1 h3 {
+
+.project2 {
+    display: flex;
     padding: 1rem 5rem 1rem 5rem;
     margin-right: 10px;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    background-color:rgba(146, 204, 206, 1);
-    position: reletive;
-} */
+    width: 100%;
+    height: auto;
+    background-image: url(/My-Advanced-Portfolio/Main/assets/images/);
+    background-repeat: no-repeat;
+}
 
-/* .project1 p{
-    position: relative;
-    position: 0rem -5rem 0rem 0rem;
-} */
+.project2 div {
+    display: flex;
+    flex-direction: column;
+    line-height: 2rem;
+    color:rgba(49, 52, 61, 1);
+    font-size: 1.5rem;
+    background-color:rgba(146, 204, 206, 1);
+    width: 10rem;
+    height: auto;
+    min-height: auto;
+    margin: 29rem 9rem 0rem -5rem;
+    padding: 1rem;
+}
+
+.project2 p {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.project2 h3 {
+    margin-bottom: 1rem;
+    margin-top: 0rem;
+}
 
 .contactMe {
     display: flex;
