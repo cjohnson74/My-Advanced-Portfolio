@@ -147,7 +147,7 @@ nav a:hover {
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     background-color:rgba(146, 204, 206, 1);
-    position: aboslute;
+    position: absolute;
     left: 0px;
     bottom: 1rem;
 }
