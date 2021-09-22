@@ -112,9 +112,10 @@ nav a:hover {
     font-size: 40px;
     width: 5rem;
     text-align: right;
+    padding-left: 1rem;
 }
 
-.work p{
+.work div{
     color:rgba(68, 88, 119, 1);
     padding-left: 3rem;
     border-left:rgba(68, 88, 119, 1);
@@ -135,16 +136,17 @@ nav a:hover {
     color:rgba(68, 88, 119, 1);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
-    width: 5rem;
+    width: 7rem;
     text-align: right;
+    padding-left: -1rem;
 }
 
-.contactMe p{
+.contactMe div{
     color:rgba(68, 88, 119, 1);
     padding-left: 3rem;
     border-left:rgba(68, 88, 119, 1);
     border-left-width: .3rem;
-    border-left-style:solid;
+    border-left-style: solid;
     margin-left: 4rem;
 }
 
