@@ -91,13 +91,13 @@ nav a:hover {
     border-right:rgba(68, 88, 119, 1);
     border-right-width: .3rem;
     border-right-style: solid;
-    padding-right: 2rem;
+    padding-right: 1rem;
 }
 
 .aboutMe p{
     color:rgba(68, 88, 119, 1);
     padding-left: 3rem;
-    margin-left: 4rem;
+    margin: 2rem 5rem 2rem 0rem;
 }
 
 .work {
@@ -123,16 +123,15 @@ nav a:hover {
 .work div{
     display: flex;
     color:rgba(68, 88, 119, 1);
-    padding-left: 3rem;
+    /* padding-left: 3rem; */
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
 }
 
 .project1 {
     display: flex;
     padding: 1rem 5rem 1rem 5rem;
-    margin: 1rem 0rem 1rem 0rem;
+    /* margin: 1rem 0rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     width: 100%;
@@ -142,6 +141,19 @@ nav a:hover {
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+}
+
+.overlay1 {
+    display: flex;
+    margin: 1rem 4rem 1rem 5rem;
+    width: 100%;
+    height: auto;
+    background-color: rgba(146, 204, 206, .5);
+    transition: all 0.5s ease-in;
+}
+
+.overlay1:hover {
+    background-color: rgba(146, 204, 206, 0);
 }
 
 .project1 div {
@@ -171,16 +183,29 @@ nav a:hover {
 .project2 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin: 1rem 1rem 1rem 0rem;
+    /* margin: 1rem 1rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 49%;
+    width: 100%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+}
+
+.overlay2 {
+    display: flex;
+    margin: 1rem 1rem 1rem 5rem;
+    width: 44%;
+    height: auto;
+    background-color: rgba(146, 204, 206, .5);
+    transition: all 0.5s ease-in;
+}
+
+.overlay2:hover {
+    background-color: rgba(146, 204, 206, 0);
 }
 
 .project2 div {
@@ -210,16 +235,29 @@ nav a:hover {
 .project3 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin: 1rem 0rem 1rem 0rem;
+    /* margin: 1rem 0rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 49%;
+    width: 100%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+}
+
+.overlay3 {
+    display: flex;
+    margin: 1rem 0rem 1rem 0rem;
+    width: 43%;
+    height: auto;
+    background-color: rgba(146, 204, 206, .5);
+    transition: all 0.5s ease-in;
+}
+
+.overlay3:hover {
+    background-color: rgba(146, 204, 206, 0);
 }
 
 .project3 div {
@@ -249,16 +287,29 @@ nav a:hover {
 .project4 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin: 1rem 1rem 1rem 0rem;
+    /* margin: 1rem 1rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 49%;
+    width: 100%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+}
+
+.overlay4 {
+    display: flex;
+    margin: 1rem 1rem 1rem 5rem;
+    width: 44%;
+    height: auto;
+    background-color: rgba(146, 204, 206, .5);
+    transition: all 0.5s ease-in;
+}
+
+.overlay4:hover {
+    background-color: rgba(146, 204, 206, 0);
 }
 
 .project4 div {
@@ -288,16 +339,29 @@ nav a:hover {
 .project5 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin: 1rem 0rem 1rem 0rem;
+    /* margin: 1rem 0rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 49%;
+    width: 100%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+}
+
+.overlay5 {
+    display: flex;
+    margin: 1rem 0rem 1rem 0rem;
+    width: 43%;
+    height: auto;
+    background-color: rgba(146, 204, 206, .5);
+    transition: all 0.5s ease-in;
+}
+
+.overlay5:hover {
+    background-color: rgba(146, 204, 206, 0);
 }
 
 .project5 div {
