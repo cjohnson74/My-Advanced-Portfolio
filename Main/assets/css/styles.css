@@ -131,7 +131,7 @@ nav a:hover {
 .project1 {
     display: flex;
     padding: 1rem 5rem 1rem 5rem;
-    margin-right: 10px;
+    margin: 1rem 1rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     width: 100%;
@@ -167,7 +167,7 @@ nav a:hover {
 .project2 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin-right: 10px;
+    margin: 1rem 1rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     width: 50%;
@@ -203,7 +203,7 @@ nav a:hover {
 .project3 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin-right: 10px;
+    margin: 1rem 1rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     width: 50%;
@@ -239,7 +239,7 @@ nav a:hover {
 .project4 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin-right: 10px;
+    margin: 1rem 1rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     width: 50%;
@@ -275,7 +275,7 @@ nav a:hover {
 .project5 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin-right: 10px;
+    margin: 1rem 1rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     width: 50%;
