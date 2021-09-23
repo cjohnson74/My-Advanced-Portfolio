@@ -139,6 +139,9 @@ nav a:hover {
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/horiseonwebpage.png);
     background-repeat: no-repeat;
+    border-color: var(--second);
+    border-width: 5px;
+    border-style: solid;
 }
 
 .project1 div {
@@ -175,6 +178,9 @@ nav a:hover {
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
+    border-color: var(--second);
+    border-width: 5px;
+    border-style: solid;
 }
 
 .project2 div {
@@ -211,6 +217,9 @@ nav a:hover {
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
+    border-color: var(--second);
+    border-width: 5px;
+    border-style: solid;
 }
 
 .project3 div {
@@ -247,6 +256,9 @@ nav a:hover {
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
+    border-color: var(--second);
+    border-width: 5px;
+    border-style: solid;
 }
 
 .project4 div {
@@ -283,6 +295,9 @@ nav a:hover {
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
+    border-color: var(--second);
+    border-width: 5px;
+    border-style: solid;
 }
 
 .project5 div {
