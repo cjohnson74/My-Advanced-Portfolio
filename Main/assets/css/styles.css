@@ -522,6 +522,15 @@ nav a:hover {
         flex-direction: column;
         align-items: center;
     }
+    header {
+        padding: 0rem 0rem 1rem 0rem;
+        width: 100%;
+    }
+    header h1 {
+        margin: 0rem 0rem 0rem 0rem;
+        width: 100%;
+        text-align: center;
+    }
     .work h2,
     .aboutMe h2,
     .contactMe h2,
@@ -545,6 +554,9 @@ nav a:hover {
 }
 
 @media screen and (max-width: 500px) {
+    header h1 {
+        display: none;
+    }
     .work h2,
     .aboutMe h2,
     .contactMe h2,
@@ -564,6 +576,7 @@ nav a:hover {
     .contactMe,
     .resume {
         padding-left: 0rem;
+        padding-top: 0rem;
     }
     .aboutMe p {
         width: 90%;
