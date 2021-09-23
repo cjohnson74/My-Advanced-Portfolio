@@ -136,7 +136,7 @@ nav a:hover {
 
 .project1 {
     display: flex;
-    padding: 1rem 0rem 1rem 5rem;
+    padding: 2rem 0rem 2rem 5rem;
     /* margin: 1rem 0rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
@@ -147,6 +147,7 @@ nav a:hover {
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+    z-index: -1;
 }
 
 .overlay1 {
@@ -188,7 +189,7 @@ nav a:hover {
 
 .project2 {
     display: flex;
-    padding: 1rem 0rem 1rem 5rem;
+    padding: 2rem 0rem 2rem 5rem;
     /* margin: 1rem 1rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
@@ -199,6 +200,7 @@ nav a:hover {
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+    z-index: -1;
 }
 
 .overlay2 {
@@ -240,7 +242,7 @@ nav a:hover {
 
 .project3 {
     display: flex;
-    padding: 1rem 0rem 1rem 5rem;
+    padding: 2rem 0rem 2rem 5rem;
     /* margin: 1rem 0rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
@@ -251,6 +253,7 @@ nav a:hover {
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+    z-index: -1;
 }
 
 .overlay3 {
@@ -292,7 +295,7 @@ nav a:hover {
 
 .project4 {
     display: flex;
-    padding: 1rem 0rem 1rem 5rem;
+    padding: 2rem 0rem 2rem 5rem;
     /* margin: 1rem 1rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
@@ -303,6 +306,7 @@ nav a:hover {
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+    z-index: -1;
 }
 
 .overlay4 {
@@ -344,7 +348,7 @@ nav a:hover {
 
 .project5 {
     display: flex;
-    padding: 1rem 0rem 1rem 5rem;
+    padding: 2rem 0rem 2rem 5rem;
     /* margin: 1rem 0rem 1rem 0rem; */
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
@@ -355,6 +359,7 @@ nav a:hover {
     border-color: var(--second);
     border-width: 5px;
     border-style: solid;
+    z-index: -1;
 }
 
 .overlay5 {
@@ -492,15 +497,18 @@ nav a:hover {
     justify-content: right;
 }
 
-.resume p{
+/* .resume p{
     color:rgba(68, 88, 119, 1);
     padding-left: 3rem;
     border-left:rgba(68, 88, 119, 1);
     border-left-width: .3rem;
     border-left-style:solid;
     margin-left: 4rem;
-}
+} */
 
-@media screen and (min width: 975px) {
-
+.resume p{
+    color:rgba(68, 88, 119, 1);
+    padding: 0rem 5rem 0rem 5rem;
+    /* margin: 2rem 5rem 2rem 0rem; */
+    width: 70rem;
 }
