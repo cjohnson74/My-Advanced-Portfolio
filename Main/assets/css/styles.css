@@ -258,7 +258,7 @@ nav a:hover {
 
 .overlay3 {
     display: flex;
-    margin: 1rem 0rem 1rem 0rem;
+    margin: 1rem 3rem 1rem 0rem;
     width: 39%;
     height: auto;
     background-color: rgba(146, 204, 206, .5);
@@ -521,6 +521,7 @@ nav a:hover {
     header {
         flex-direction: column;
         align-items: center;
+        padding-left: 0rem;
     }
     header {
         padding: 0rem 0rem 1rem 0rem;
@@ -539,9 +540,10 @@ nav a:hover {
         border-bottom-color:rgba(68, 88, 119, 1);
         border-bottom-style: solid;
         border-bottom-width: .3rem;
-        width: 80%;
+        width: 90%;
         justify-content: left;
-        margin-right: 5rem;
+        margin-right: 1rem;
+        margin-left: 1rem;
     }
     .aboutMe p,
     .resume p {
@@ -550,6 +552,27 @@ nav a:hover {
     .resume p {
         text-align: center;
         padding-bottom: 5rem;
+    }
+    .overlay1 {
+        margin: 0% 7.5% 0% 7.5%;
+        width: 90%;
+    }
+    .overlay2,
+    .overlay3,
+    .overlay4,
+    .overlay5 {
+        width: 40%;
+        
+    }
+    .overlay2,
+    .overlay4 {
+        margin-left: 7.5%;
+        margin-right: 2.5%;
+    }
+    .overlay3,
+    .overlay5 {
+        margin-left: 2.5%;
+        margin-right: 7.5%;
     }
 }
 
