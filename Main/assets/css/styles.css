@@ -126,12 +126,13 @@ nav a:hover {
     padding-left: 3rem;
     flex-direction: row;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 .project1 {
     display: flex;
     padding: 1rem 5rem 1rem 5rem;
-    margin: 1rem 1rem 1rem 0rem;
+    margin: 1rem 0rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
     width: 100%;
@@ -170,7 +171,7 @@ nav a:hover {
     margin: 1rem 1rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 50%;
+    width: 49%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
@@ -203,10 +204,10 @@ nav a:hover {
 .project3 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin: 1rem 1rem 1rem 0rem;
+    margin: 1rem 0rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 50%;
+    width: 49%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
@@ -242,7 +243,7 @@ nav a:hover {
     margin: 1rem 1rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 50%;
+    width: 49%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
@@ -275,10 +276,10 @@ nav a:hover {
 .project5 {
     display: flex;
     padding: 1rem 0rem 1rem 5rem;
-    margin: 1rem 1rem 1rem 0rem;
+    margin: 1rem 0rem 1rem 0rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.4rem;
-    width: 50%;
+    width: 49%;
     height: auto;
     background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
     background-repeat: no-repeat;
