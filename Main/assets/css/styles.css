@@ -15,8 +15,6 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-
-
 header {
     display: flex;
     flex-direction: row;
@@ -108,6 +106,10 @@ nav a:hover {
     flex-direction: row;
     padding: 2rem 0rem 0rem 3rem;
     justify-content: left;
+}
+
+.work a {
+    text-decoration: none;
 }
 
 .work h2 {
