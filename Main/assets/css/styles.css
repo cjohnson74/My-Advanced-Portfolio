@@ -590,7 +590,8 @@ nav a:hover {
         border-bottom-width: .3rem;
         width: 90%;
         justify-content: left;
-        margin-right: 5rem;
+        margin-right: 1rem;
+        margin-left: 1rem;
         line-height: 4rem;
         margin-bottom: 1rem;
     }
