@@ -615,7 +615,8 @@ nav a:hover {
     .overlay5 {
     margin: 1rem 2rem 1rem 2rem;
     }
-    .work div {
+    .work div,
+    .work a {
         width: 100%;
     }
     .project1 div {
