@@ -94,6 +94,11 @@ nav a:hover {
     justify-content: right;
 }
 
+.aboutMe img {
+    width: 50%;
+    height: auto;
+}
+
 .aboutMe p{
     color:rgba(68, 88, 119, 1);
     padding: 0rem 5rem 0rem 5rem;
