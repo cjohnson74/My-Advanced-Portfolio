@@ -125,13 +125,13 @@ nav a:hover {
     justify-content: right;
 }
 
-.work div{
+.workMain {
     display: flex;
     color:rgba(68, 88, 119, 1);
     /* padding-left: 3rem; */
     flex-direction: row;
     flex-wrap: wrap;
-    /* width: 75%; */
+    width: 100%;
 }
 
 .project1 {
@@ -152,7 +152,7 @@ nav a:hover {
 
 .overlay1 {
     display: flex;
-    margin: 1rem 5rem 1rem 5rem;
+    margin: 1% 5% 1% 5%;
     width: 100%;
     height: auto;
     background-color: rgba(146, 204, 206, .5);
@@ -205,8 +205,8 @@ nav a:hover {
 
 .overlay2 {
     display: flex;
-    margin: 1rem 1rem 1rem 5rem;
-    width: 40%;
+    margin: 1% 2.5% 1% 5%;
+    width: 42.5%;
     height: auto;
     background-color: rgba(146, 204, 206, .5);
     transition: all 0.5s ease-in;
@@ -258,8 +258,8 @@ nav a:hover {
 
 .overlay3 {
     display: flex;
-    margin: 1rem 3rem 1rem 0rem;
-    width: 39%;
+    margin: 1% 5% 1% 2.5%;
+    width: 42.5%;
     height: auto;
     background-color: rgba(146, 204, 206, .5);
     transition: all 0.5s ease-in;
@@ -311,8 +311,8 @@ nav a:hover {
 
 .overlay4 {
     display: flex;
-    margin: 1rem 1rem 1rem 5rem;
-    width: 40%;
+    margin: 1% 2.5% 1% 5%;
+    width: 42.5%;
     height: auto;
     background-color: rgba(146, 204, 206, .5);
     transition: all 0.5s ease-in;
@@ -364,8 +364,8 @@ nav a:hover {
 
 .overlay5 {
     display: flex;
-    margin: 1rem 0rem 1rem 0rem;
-    width: 39%;
+    margin: 1% 5% 1% 2.5%;
+    width: 42.5%;
     height: auto;
     background-color: rgba(146, 204, 206, .5);
     transition: all 0.5s ease-in;
