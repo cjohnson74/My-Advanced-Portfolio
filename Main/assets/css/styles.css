@@ -578,7 +578,7 @@ nav a:hover {
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
     header h1 {
         display: none;
     }
