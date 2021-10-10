@@ -477,14 +477,14 @@ nav a:hover {
     color: var(--second);
 }
 
-.resume {
+/* .resume {
     display: flex;
     flex-direction: row;
     padding: 2rem 0rem 0rem 3rem;
     justify-content: left;
 }
 
-/* .resume h2 {
+.resume h2 {
     display: flex;
     color:rgba(68, 88, 119, 1);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -492,7 +492,7 @@ nav a:hover {
     width: 5rem;
     margin-left: 5rem;
     text-align: right;
-} */
+}
 
 .resume h2 {
     display: flex;
@@ -509,21 +509,21 @@ nav a:hover {
     justify-content: right;
 }
 
-/* .resume p{
+.resume p{
     color:rgba(68, 88, 119, 1);
     padding-left: 3rem;
     border-left:rgba(68, 88, 119, 1);
     border-left-width: .3rem;
     border-left-style:solid;
     margin-left: 4rem;
-} */
+}
 
 .resume p{
     color:rgba(68, 88, 119, 1);
     padding: 0rem 5rem 0rem 5rem;
-    /* margin: 2rem 5rem 2rem 0rem; */
+    margin: 2rem 5rem 2rem 0rem;
     width: 70rem;
-}
+} */
 
 @media screen and (max-width: 975px){
     .work,
