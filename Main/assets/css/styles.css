@@ -19,7 +19,6 @@ header {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
     padding: 15px 15px 15px 0px;
     align-items: center;
     background-color: var(--third);
@@ -146,7 +145,7 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/My-Advanced-Portfolio/Main/assets/images/horiseonwebpage.png);
+    background-image: url(/Main/assets/images/GeoStream.png);
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
@@ -199,7 +198,7 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
+    background-image: url(/Main/assets/images/WeatherDashboard.png);
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
@@ -305,7 +304,7 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
+    background-image: url(/Main/assets/images/WorkDayScheduler.png);
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
