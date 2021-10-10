@@ -145,7 +145,7 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/Main/assets/images/GeoStream.png);
+    background-image: url("/My-Advanced-Portfolio/Main/assets/images/GeoStream.png");
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
@@ -198,7 +198,7 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/Main/assets/images/WeatherDashboard.png);
+    background-image: url("/My-Advanced-Portfolio/Main/assets/images/WeatherDashboard.png");
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
@@ -251,7 +251,7 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/My-Advanced-Portfolio/Main/assets/images/Password-Generator.png);
+    background-image: url("/My-Advanced-Portfolio/Main/assets/images/Password-Generator.png");
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
@@ -304,7 +304,7 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/Main/assets/images/WorkDayScheduler.png);
+    background-image: url("/My-Advanced-Portfolio/Main/assets/images/WorkDayScheduler.png");
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
@@ -357,7 +357,7 @@ nav a:hover {
     font-size: 1.4rem;
     width: 100%;
     height: auto;
-    background-image: url(/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png);
+    background-image: url("/My-Advanced-Portfolio/Main/assets/images/cssCheatsheat.png");
     background-repeat: no-repeat;
     border-color: var(--second);
     border-width: 5px;
