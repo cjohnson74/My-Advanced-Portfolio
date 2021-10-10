@@ -151,6 +151,7 @@ nav a:hover {
     border-width: 5px;
     border-style: solid;
     z-index: -1;
+    background-size: cover;
 }
 
 .overlay1 {
@@ -204,6 +205,7 @@ nav a:hover {
     border-width: 5px;
     border-style: solid;
     z-index: -1;
+    background-size: cover;
 }
 
 .overlay2 {
@@ -257,6 +259,7 @@ nav a:hover {
     border-width: 5px;
     border-style: solid;
     z-index: -1;
+    background-size: cover;
 }
 
 .overlay3 {
@@ -310,6 +313,7 @@ nav a:hover {
     border-width: 5px;
     border-style: solid;
     z-index: -1;
+    background-size: cover;
 }
 
 .overlay4 {
@@ -363,6 +367,7 @@ nav a:hover {
     border-width: 5px;
     border-style: solid;
     z-index: -1;
+    background-size: cover;
 }
 
 .overlay5 {
