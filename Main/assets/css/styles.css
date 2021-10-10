@@ -59,7 +59,7 @@ nav a:hover {
 .hero-banner {
     display: flex;
     justify-content: right;
-    padding: 5rem 5rem 0rem 5rem;
+    padding: 30rem 1rem 0rem 5rem;
     background-image: url("/My-Advanced-Portfolio/Main/assets/images/codingwallpaper.png");
     background-position: 40%;
     background-size: cover;
@@ -70,6 +70,8 @@ nav a:hover {
     background-size: cover;
     background-color: var(--second);
     padding: 1rem;
+    box-shadow: 0rem 0rem 2rem var(--second);
+    font-size: xx-large;
 }
 
 .aboutMe {
