@@ -544,6 +544,9 @@ nav a:hover {
         width: 100%;
         text-align: center;
     }
+    nav {
+        width: 100%;
+    }
     .work h2,
     .aboutMe h2,
     .contactMe h2,
