@@ -99,10 +99,15 @@ nav a:hover {
 }
 
 .aboutMe p{
-    color:rgba(68, 88, 119, 1);
-    padding: 0rem 5rem 0rem 5rem;
-    /* margin: 2rem 5rem 2rem 0rem; */
-    width: 70rem;
+    color: var(--third);
+    padding: 1rem 1rem 1rem 1rem;
+    margin: 2rem 5rem 2rem 3rem;
+    width: auto;
+    font-size: 1.5rem;
+    background-color: var(--second);
+    border-color: rgba(68, 88, 119, .5);
+    border-width: 5px;
+    border-style: solid;
 }
 
 .work {
