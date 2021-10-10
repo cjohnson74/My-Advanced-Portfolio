@@ -2,7 +2,7 @@
 Welcome to my portfolio!
 
 # My Advance Portfolio 
-## [COME ON IN... SITE LIVE NOW!](https://cjohnson74.github.io/My-Advanced-Portfolio/)
+## [LIVE SITE LINK!](https://cjohnson74.github.io/My-Advanced-Portfolio/)
 
 # Screenshots (Desktop)
 <img width="1121" alt="Desktop1" src="https://user-images.githubusercontent.com/52815609/134780470-7c90b37d-299b-4ee9-a358-9bb0af385156.png">
