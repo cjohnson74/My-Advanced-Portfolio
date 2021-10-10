@@ -1,5 +1,5 @@
 # My-Advanced-Portfolio
-Welcome to my portfolio! Click the live link to see a glimpse at my coding journey...
+### Welcome to my portfolio! Click the live link to see a glimpse at my coding journey...
 
 # My Advance Portfolio 
 ## [LIVE SITE LINK!](https://cjohnson74.github.io/My-Advanced-Portfolio/)
