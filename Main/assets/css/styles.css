@@ -452,7 +452,8 @@ nav a:hover {
 .contactMe a {
     text-decoration: none;
     padding: 10px;
-    margin-right: 10px;
+    margin: 2rem;
+    height: 3rem;
     color: var(--first);
     background-image: linear-gradient(270deg, var(--first) 0%, var(--first) 100%);
     background-repeat: no-repeat;
