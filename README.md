@@ -1,8 +1,8 @@
 # My-Advanced-Portfolio
-Welcome to my portfolio!
+### Welcome to my portfolio! Click the live link to get a small glimpse of my coding journey...
 
 # My Advance Portfolio 
-## [LIVE SITE LINK](https://cjohnson74.github.io/My-Advanced-Portfolio/)
+## [LIVE SITE LINK!](https://cjohnson74.github.io/My-Advanced-Portfolio/)
 
 # Screenshots (Desktop)
 <img width="1121" alt="Desktop1" src="https://user-images.githubusercontent.com/52815609/134780470-7c90b37d-299b-4ee9-a358-9bb0af385156.png">
