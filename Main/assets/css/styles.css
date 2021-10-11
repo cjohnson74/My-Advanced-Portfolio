@@ -567,7 +567,7 @@ nav a:hover {
     }
     .aboutMe p,
     .resume p {
-        width: 100%;
+        width: 75%;
     }
     .resume p {
         text-align: center;
