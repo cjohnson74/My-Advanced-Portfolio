@@ -13,6 +13,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(90deg, rgba(2,27,40,1) 31%, rgba(0,85,94,1) 100%);
 }
 
 header {
@@ -21,15 +22,22 @@ header {
     flex-wrap: wrap;
     padding: 15px 15px 15px 0px;
     align-items: center;
-    background-color: var(--third);
+    background: linear-gradient(90deg, rgba(2,27,40,1) 31%, rgba(0,85,94,1) 100%);
+    justify-content: space-between;
 }
 
 header h1 {
-    color: var(--third);
-    background-color: var(--second);
+    color: #00e7ff;
+    background: none;
     padding: 5px 5px 5px 30px;
     font-size: 5rem;
-    width: 50%;
+    text-shadow: 0rem 0rem 5rem #00e7ff;
+}
+
+header h1:hover {
+    text-shadow: 0rem 0rem 5rem #00e7ff,
+                0rem 0rem 3rem #00e7ff,
+                0rem 0rem 1rem #00e7ff;
 }
 
 nav {
@@ -44,24 +52,24 @@ nav a {
     text-decoration: none;
     padding: 10px;
     margin-right: 10px;
-    color: var(--second);
-    background-image: linear-gradient(270deg, var(--second) 0%, var(--second) 100%);
+    color: #00e7ff;
+    background-image: linear-gradient(270deg, #00e7ff 0%, #00e7ff 100%);
     background-repeat: no-repeat;
     background-size: 100% 0.2rem;
     background-position: bottom;
-    transition: all 0.25s ease-in;
+    transition: all 0.45s ease-in;
     font-size: 1.4rem;
 }
 
 nav a:hover {
     background-size: 100% 100%;
-    color: var(--first);
+    color: black;
 }
 
 .hero-banner {
     display: flex;
     justify-content: right;
-    padding: 30rem 1rem 0rem 5rem;
+    padding: 45rem 0rem 0rem 5rem;
     background-image: url("/My-Advanced-Portfolio/Main/assets/images/codingwallpaper.png");
     background-position: 40%;
     background-size: cover;
@@ -70,10 +78,16 @@ nav a:hover {
 
 .hero-banner h2{
     background-size: cover;
-    background-color: var(--second);
+    background-color: #00e7ff;
     padding: 1rem;
-    box-shadow: 0rem 0rem 2rem var(--second);
+    box-shadow: 0rem 0rem 2rem #00e7ff;
     font-size: xx-large;
+}
+
+.hero-banner h2:hover{
+    box-shadow: 0rem 0rem 5rem #00e7ff,
+                0rem 0rem 3rem #00e7ff,
+                0rem 0rem 1rem #00e7ff;
 }
 
 .aboutMe {
@@ -99,13 +113,13 @@ nav a:hover {
 }
 
 .aboutMe p{
-    color: var(--third);
+    color: black;
     padding: 1rem 1rem 1rem 1rem;
     margin: 2rem 5rem 2rem 3rem;
     width: auto;
     font-size: 1.5rem;
     background-color: var(--second);
-    border-color: rgba(68, 88, 119, .5);
+    border-color: #00e7ff;
     border-width: 5px;
     border-style: solid;
 }
@@ -155,7 +169,7 @@ nav a:hover {
     height: auto;
     background-image: url("/My-Advanced-Portfolio/Main/assets/images/GeoStream.png");
     background-repeat: no-repeat;
-    border-color: var(--second);
+    border-color: #00e7ff;
     border-width: 5px;
     border-style: solid;
     z-index: -1;
@@ -181,7 +195,7 @@ nav a:hover {
     line-height: 2rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1.5rem;
-    background-color:rgba(146, 204, 206, 1);
+    background-color:#00e7ff;
     width: auto;
     height: auto;
     min-height: auto;
@@ -209,7 +223,7 @@ nav a:hover {
     height: auto;
     background-image: url("/My-Advanced-Portfolio/Main/assets/images/WeatherDashboard.png");
     background-repeat: no-repeat;
-    border-color: var(--second);
+    border-color: #00e7ff;
     border-width: 5px;
     border-style: solid;
     z-index: -1;
@@ -235,7 +249,7 @@ nav a:hover {
     line-height: 1rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1rem;
-    background-color:rgba(146, 204, 206, 1);
+    background-color:#00e7ff;
     width: auto;
     height: auto;
     min-height: auto;
@@ -263,7 +277,7 @@ nav a:hover {
     height: auto;
     background-image: url("/My-Advanced-Portfolio/Main/assets/images/Password-Generator.png");
     background-repeat: no-repeat;
-    border-color: var(--second);
+    border-color: #00e7ff;
     border-width: 5px;
     border-style: solid;
     z-index: -1;
@@ -289,7 +303,7 @@ nav a:hover {
     line-height: 1rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1rem;
-    background-color:rgba(146, 204, 206, 1);
+    background-color:#00e7ff;
     width: auto;
     height: auto;
     min-height: auto;
@@ -317,7 +331,7 @@ nav a:hover {
     height: auto;
     background-image: url("/My-Advanced-Portfolio/Main/assets/images/WorkDayScheduler.png");
     background-repeat: no-repeat;
-    border-color: var(--second);
+    border-color: #00e7ff;
     border-width: 5px;
     border-style: solid;
     z-index: -1;
@@ -343,7 +357,7 @@ nav a:hover {
     line-height: 1rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1rem;
-    background-color:rgba(146, 204, 206, 1);
+    background-color:#00e7ff;
     width: auto;
     height: auto;
     min-height: auto;
@@ -371,7 +385,7 @@ nav a:hover {
     height: auto;
     background-image: url("/My-Advanced-Portfolio/Main/assets/images/JavaScriptCodeQuiz.png");
     background-repeat: no-repeat;
-    border-color: var(--second);
+    border-color: #00e7ff;
     border-width: 5px;
     border-style: solid;
     z-index: -1;
@@ -397,7 +411,7 @@ nav a:hover {
     line-height: 1rem;
     color:rgba(49, 52, 61, 1);
     font-size: 1rem;
-    background-color:rgba(146, 204, 206, 1);
+    background-color:#00e7ff;
     width: auto;
     height: auto;
     min-height: auto;
@@ -468,8 +482,8 @@ nav a:hover {
     padding: 10px;
     margin: 2rem;
     height: 3rem;
-    color: var(--first);
-    background-image: linear-gradient(270deg, var(--first) 0%, var(--first) 100%);
+    color: #00e7ff;
+    background-image: linear-gradient(270deg, #00e7ff 0%, #00e7ff 100%);
     background-repeat: no-repeat;
     background-size: 100% 0.3rem;
     background-position: bottom;
@@ -479,7 +493,7 @@ nav a:hover {
 
 .contactMe a:hover {
     background-size: 100% 100%;
-    color: var(--second);
+    color: black;
 }
 
 /* .resume {
