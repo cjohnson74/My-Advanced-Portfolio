@@ -13,7 +13,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: linear-gradient(90deg, rgba(2,27,40,1) 31%, rgba(0,85,94,1) 100%);
+    background-color: #f77f00;
+    /* background: linear-gradient(90deg, rgba(2,27,40,1) 31%, rgba(0,85,94,1) 100%); */
 }
 
 header {
@@ -22,7 +23,8 @@ header {
     flex-wrap: wrap;
     padding: 15px 15px 15px 0px;
     align-items: center;
-    background: linear-gradient(90deg, rgba(2,27,40,1) 31%, rgba(0,85,94,1) 100%);
+    background-color: #f77f00;
+    /* background: linear-gradient(90deg, rgba(2,27,40,1) 31%, rgba(0,85,94,1) 100%); */
     justify-content: space-between;
 }
 
