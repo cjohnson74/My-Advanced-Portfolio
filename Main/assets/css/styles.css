@@ -125,7 +125,7 @@ nav a:hover {
     margin: 2rem 5rem 2rem 3rem;
     width: auto;
     font-size: 1.5rem;
-    background-color: var(--second);
+    background-color: #94d2bd;
     border-color: #005f73;
     border-width: 5px;
     border-style: solid;
@@ -658,7 +658,7 @@ nav a:hover {
     }
     .aboutMe p {
         width: 90%;
-        padding: 0rem 0rem 0rem 0rem;
+        /* padding: 0rem 0rem 0rem 0rem; */
     }
     .overlay1,
     .overlay2,
