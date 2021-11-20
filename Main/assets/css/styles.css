@@ -674,6 +674,13 @@ nav a:hover {
     .project1 div {
         margin: 0rem 0rem 0rem -5rem;
     }
+    .project1 div,
+    .project2 div,
+    .project3 div,
+    .project4 div,
+    .project5 div {
+        width: auto;
+    }
     .contactMe div {
         flex-direction: column;
         justify-content: space-evenly;
