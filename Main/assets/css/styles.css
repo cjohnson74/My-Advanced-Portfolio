@@ -415,6 +415,7 @@ nav a:hover {
 .project5 div {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     line-height: 1rem;
     color:#ffffff;
     font-size: 1rem;
@@ -629,7 +630,7 @@ nav a:hover {
     }
 }
 
-@media screen and (max-width: 621px) {
+@media screen and (max-width: 800px) {
     header h1 {
         display: none;
     }
