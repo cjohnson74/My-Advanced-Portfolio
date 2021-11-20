@@ -561,12 +561,6 @@ nav a:hover {
     width: 70rem;
 } */
 
-@media screen and (max-width: 1500px){
-    header #profile-picture-head {
-        display: none;
-    }
-}
-
 @media screen and (max-width: 1257px){
     header h1,
     nav {
