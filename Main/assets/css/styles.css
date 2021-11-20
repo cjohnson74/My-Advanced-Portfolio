@@ -46,6 +46,10 @@ header h1:hover {
                 0rem 0rem 1rem #ffffff;
 }
 
+header div {
+    border-radius: 100%;
+}
+
 nav {
     display: flex;
     flex-direction: row;
