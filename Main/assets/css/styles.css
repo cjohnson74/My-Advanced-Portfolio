@@ -31,7 +31,7 @@ header {
 header h1 {
     /* color: #00e7ff; */
     display: flex;
-    text-align: center;
+    align-items: center;
     font-family: 'Spicy Rice', cursive;
     color: #ffffff;
     background: none;
