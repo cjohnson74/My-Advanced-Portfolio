@@ -46,10 +46,14 @@ header h1:hover {
                 0rem 0rem 1rem #ffffff;
 }
 
-header div {
-    border-radius: 50%;
-    width: 5rem;
-    height: 5rem;
+header #profile-picture-head {
+    width: auto;
+    height: auto;
+}
+
+header img {
+    border-radius: 100%;
+    height: 15rem;
 }
 
 nav {
@@ -557,6 +561,17 @@ nav a:hover {
     margin: 2rem 5rem 2rem 0rem;
     width: 70rem;
 } */
+
+@media screen and (max-width: 1500px){
+    header #profile-picture-head {
+        display: none;
+    }
+    #aboutMe img {
+        display: show;
+        border-radius: 100%;
+        height: 15rem;
+    }
+}
 
 @media screen and (max-width: 1257px){
     header h1,
